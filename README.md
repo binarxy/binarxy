@@ -1,6 +1,8 @@
 <h1 align="center">Huh? This page doesn't have anything u want.</h1>
 <h3 align="center">What do u want from my Github❓</h3>
 
+<img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/654f9bba8155bed73b67d359d6fbb372/tumblr_owwo8staJo1wbxqk4o1_540.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
