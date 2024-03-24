@@ -22,7 +22,11 @@ This page doesn't have anything u want, why u come here?
 
 ### Operating System
 
+
+<a href="https://www.microsoft.com/th-th/windows?r=1" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/19b31de9033843b195ae8278ee9c8ec1115e710000e8c49456e86df96396fb92/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f77696e646f7773382f77696e646f7773382d6f726967696e616c2e737667" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+
+
 
 
 ### Socials
