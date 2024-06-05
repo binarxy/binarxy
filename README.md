@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 yo
 --
 
-This page doesn't have anything u want, why u come here?
+This page doesn't have anything u want
 
 ### Skills
 
