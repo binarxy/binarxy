@@ -23,7 +23,7 @@ i use rust, btw
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="Redis" /></a>
 <a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /></a>
 
 ### Editor
